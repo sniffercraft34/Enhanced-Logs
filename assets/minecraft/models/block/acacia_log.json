@@ -1,0 +1,7 @@
+{
+    "parent": "block/log_round",
+    "textures": {
+        "side": "block/acacia_log",
+        "top": "block/acacia_log_top"
+    }
+}

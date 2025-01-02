@@ -1,0 +1,7 @@
+{
+    "parent": "block/log_round",
+    "textures": {
+        "side": "block/warped_stem",
+        "top": "block/warped_stem_top"
+    }
+}

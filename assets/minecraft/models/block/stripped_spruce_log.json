@@ -1,0 +1,7 @@
+{
+    "parent": "block/log_round",
+    "textures": {
+        "side": "block/stripped_spruce_log",
+        "top": "block/stripped_spruce_log_top"
+    }
+}
